@@ -1,7 +1,6 @@
 # MotivationalIconsApp
-# MotivationalIconsApp
 
-![Screenshot](Screen\ Shoot/scren.jpg)
+![Screenshot](Screen_Shoot/scren.jpg)
 
 
 ---
