@@ -18,7 +18,7 @@
 
 > يمكنك استبدال هذه الصور بصور حقيقية للشاشة من التطبيق:
 
-![Screenshot 1](Screen Shoot/scren2.jpg)
+![Screenshot 1](Screen Shoot/scren.jpg)
 
 *مثال على الشاشة الرئيسية للتطبيق مع الأيقونات التحفيزية.*
 
@@ -55,4 +55,4 @@ cd MotivationalIconsApp
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
+---
