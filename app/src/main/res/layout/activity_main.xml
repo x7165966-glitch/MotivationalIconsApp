@@ -61,7 +61,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search"
+            android:text="Done"
             >
 
         </TextView>
@@ -89,7 +89,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search"
+            android:text="sunny"
             >
 
         </TextView>
@@ -117,7 +117,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search"
+            android:text="Support"
             >
 
         </TextView>
@@ -145,7 +145,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search"
+            android:text="Favorite"
             >
 
         </TextView>
@@ -173,7 +173,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search"
+            android:text="Shopping"
             >
 
         </TextView>
@@ -202,7 +202,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search"
+            android:text="Logout"
             >
 
         </TextView>
@@ -231,7 +231,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search"
+            android:text="Settings"
             >
 
         </TextView>
