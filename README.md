@@ -1,6 +1,9 @@
 # MotivationalIconsApp
 
-![Screenshot](Screen_Shoot/scren.jpg)
+<h2>MotivationalIconsApp</h2>
+
+<img src="Screen_Shoot/scren.jpg" alt="Screenshot" width="600"/>
+
 
 
 ---
