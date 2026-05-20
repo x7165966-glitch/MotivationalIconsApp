@@ -43,20 +43,4 @@
 
 > هذه الملفات يمكن تجاهلها عند مشاركة المشروع أو رفعه على GitHub.
 
----
 
-## نصيحة لمشاركة المشروع
-
-- استخدم `.gitignore` قبل رفع المشروع على GitHub أو مشاركته:
-
-```gitignore
-# Android Studio
-.idea/
-*.iml
-.gradle/
-build/
-local.properties
-
-# OS files
-.DS_Store
-Thumbs.db
