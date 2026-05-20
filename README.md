@@ -46,7 +46,7 @@ cd MotivationalIconsApp
 **Abd al Rahman — Android Developer**  
 
 مهتم ببناء تطبيقات أندرويد عملية وجذابة مع واجهات مستخدم سهلة وفعالة.
-
+```
 ---
 
 ### 🌐 Connect With Me
@@ -56,3 +56,4 @@ cd MotivationalIconsApp
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 ---
+```
