@@ -2,7 +2,7 @@
 
 <h2>MotivationalIconsApp</h2>
 
-<img src="Screen_Shoot/scren2.jpg" alt="Screenshot" width="600"/>
+<img src="Screen Shoot/scren.jpg" alt="Screenshot" width="600"/>
 
 
 
