@@ -18,7 +18,7 @@
 
 > يمكنك استبدال هذه الصور بصور حقيقية للشاشة من التطبيق:
 
-![Screenshot 1](Screen Shoot/scren.jpg)
+<img src="Screen Shoot/scren.jpg" alt="Screenshot" width="600"/>
 
 *مثال على الشاشة الرئيسية للتطبيق مع الأيقونات التحفيزية.*
 
