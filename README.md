@@ -18,7 +18,7 @@
 
 > يمكنك استبدال هذه الصور بصور حقيقية للشاشة من التطبيق:
 
-<img src="Screen Shoot/scren2.jpg" alt="Screenshot" width="600"/>
+<img src="Screen Shoot/scren1.jpg" alt="Screenshot" width="600"/>
 
 *مثال على الشاشة الرئيسية للتطبيق مع الأيقونات التحفيزية.*
 
@@ -51,9 +51,8 @@ cd MotivationalIconsApp
 
 ### 🌐 Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)  
-[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/x_vip20)  
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lvjq_)   
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:x7165966@gmail.com)
 ---
 ```
