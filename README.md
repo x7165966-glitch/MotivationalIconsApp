@@ -18,7 +18,7 @@
 
 
 
-<img src="Screen Shoot/scren1.jpg" alt="Screenshot" width="600"/>
+<img src="Screen Shoot/scren1.jpg" alt="Screenshot" width="400"/>
 
 ---
 
