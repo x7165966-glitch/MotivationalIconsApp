@@ -1,7 +1,8 @@
 # MotivationalIconsApp
+# MotivationalIconsApp
 
-## وصف المشروع
-تطبيق Android يعرض قائمة من الأيقونات التحفيزية مع رسائل تشجيعية للمستخدم. كل صف يحتوي على أيقونة ونص مرتب أفقيًا لتوفير واجهة نظيفة وسهلة الاستخدام.
+![Screenshot](Screen\ Shoot/scren.jpg)
+
 
 ---
 
